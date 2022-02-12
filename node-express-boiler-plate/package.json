@@ -1,0 +1,41 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-sanitizer": "^1.0.5",
+    "http-errors": "~1.6.2",
+    "joi": "^17.3.0",
+    "mongoose": "^5.11.2",
+    "morgan": "~1.9.0",
+    "nodemon": "^2.0.6",
+    "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Codistan/healthnsafety/hsn-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Codistan/healthnsafety/hsn-backend/issues"
+  },
+  "homepage": "https://gitlab.com/Codistan/healthnsafety/hsn-backend#readme"
+}
