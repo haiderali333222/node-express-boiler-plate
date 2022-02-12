@@ -1,11 +1,34 @@
-### Node Express template project
+Node.JS Chat
+============
 
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
 
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/express).
+This is a node.js boiler plate code that contains an onion architecture like setup and already has mongo , express and joi configured 
+---
+## Give me a Headsup
 
-### CI/CD with Auto DevOps
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by endorsing my skills on linkedin profile url is https://www.linkedin.com/in/haider-ali-61a853175/, so I can dedicate more time on open-source projects like this :)
 
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
+---
 
-If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+## Features
+- Node js
+- Express js
+- Mongo db
+- Joi Validation
+- Other awesome features yet to be implemented
+
+
+
+
+
+## Setup
+Clone this repo to your desktop and run `npm install` to install all the dependencies.
+
+---
+
+## Usage
+After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
+
+Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
+
+
